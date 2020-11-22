@@ -5,6 +5,14 @@
     "slug": "giki-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 782
+    "time": 828
+  },
+  {
+    "name": "api.giki.app",
+    "url": "https://api.giki.app/ping",
+    "slug": "api-giki-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2227
   }
 ]

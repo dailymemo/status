@@ -5,7 +5,7 @@
     "slug": "giki-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 794
+    "time": 808
   },
   {
     "name": "api.giki.app",
@@ -13,6 +13,6 @@
     "slug": "api-giki-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1775
+    "time": 1818
   }
 ]

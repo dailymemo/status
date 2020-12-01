@@ -6,9 +6,34 @@ repo: status # Your Github repository name
 sites:
   - name: giki.app
     url: https://giki.app
-  - name: api.giki.app
+  - name: api.giki.app/ping
     url: https://api.giki.app/ping
-
+  - name: POST api.giki.app/talks
+    url: https://api.giki.app/talks 
+    method: POST
+    headers: 
+      - "Authorization: Bearer ${GIKI_BOT_TOKEN}" 
+      - "Content-Type: application/json"
+    body: '{"text": "hello world - status"}'
+  - name: GET api.giki.app/talks
+    url: https://api.giki.app/talks?user_name=i
+    method: GET
+    headers: 
+      - "Authorization: Bearer ${GIKI_BOT_TOKEN}" 
+      - "Content-Type: application/json"
+  - name: GET api.giki.app/users
+    url: https://api.giki.app/users?name=i
+    method: GET
+    headers: 
+      - "Authorization: Bearer ${GIKI_BOT_TOKEN}" 
+      - "Content-Type: application/json"
+  - name: GET api.giki.app/user/login 
+    url: https://api.giki.app/user/login 
+    headers: 
+      - "Authorization: Bearer ${GIKI_BOT_TOKEN}" 
+      - "Content-Type: application/json"
+    body: '{"provider": "weibo", "providerUserId": "123", "scene": "giki_app_web"}'
+  
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status

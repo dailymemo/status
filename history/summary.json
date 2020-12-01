@@ -6,13 +6,5 @@
     "status": "up",
     "uptime": "100.00%",
     "time": 822
-  },
-  {
-    "name": "api.giki.app",
-    "url": "https://api.giki.app/ping",
-    "slug": "api-giki-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 1969
   }
 ]

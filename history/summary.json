@@ -5,6 +5,46 @@
     "slug": "giki-app",
     "status": "up",
     "uptime": "100.00%",
-    "time": 822
+    "time": 812
+  },
+  {
+    "name": "api.giki.app/ping",
+    "url": "https://api.giki.app/ping",
+    "slug": "api-giki-app-ping",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 805
+  },
+  {
+    "name": "POST api.giki.app/talks",
+    "url": "https://api.giki.app/talks",
+    "slug": "post-api-giki-app-talks",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 473
+  },
+  {
+    "name": "GET api.giki.app/talks",
+    "url": "https://api.giki.app/talks?user_name=i",
+    "slug": "get-api-giki-app-talks",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 486
+  },
+  {
+    "name": "GET api.giki.app/users",
+    "url": "https://api.giki.app/users?name=i",
+    "slug": "get-api-giki-app-users",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 473
+  },
+  {
+    "name": "GET api.giki.app/user/login",
+    "url": "https://api.giki.app/user/login",
+    "slug": "get-api-giki-app-user-login",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 461
   }
 ]

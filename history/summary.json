@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 820,
-    "timeDay": 861,
-    "timeWeek": 834,
-    "timeMonth": 820,
-    "timeYear": 820
+    "time": 817,
+    "timeDay": 759,
+    "timeWeek": 815,
+    "timeMonth": 817,
+    "timeYear": 817
   },
   {
     "name": "api.giki.app/ping",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1391,
-    "timeDay": 2281,
-    "timeWeek": 1391,
-    "timeMonth": 1391,
-    "timeYear": 1391
+    "time": 1296,
+    "timeDay": 820,
+    "timeWeek": 1296,
+    "timeMonth": 1296,
+    "timeYear": 1296
   },
   {
     "name": "POST api.giki.app/talks",
@@ -41,11 +41,11 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 829,
-    "timeDay": 1489,
-    "timeWeek": 829,
-    "timeMonth": 829,
-    "timeYear": 829
+    "time": 727,
+    "timeDay": 217,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727
   },
   {
     "name": "GET api.giki.app/talks",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 275,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359
+    "time": 340,
+    "timeDay": 249,
+    "timeWeek": 340,
+    "timeMonth": 340,
+    "timeYear": 340
   },
   {
     "name": "GET api.giki.app/users",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 218,
-    "timeWeek": 323,
-    "timeMonth": 323,
-    "timeYear": 323
+    "time": 306,
+    "timeDay": 217,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306
   },
   {
     "name": "GET api.giki.app/user/login",
@@ -89,10 +89,10 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 305,
-    "timeDay": 200,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305
+    "time": 287,
+    "timeDay": 197,
+    "timeWeek": 287,
+    "timeMonth": 287,
+    "timeYear": 287
   }
 ]

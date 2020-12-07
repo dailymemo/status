@@ -2,6 +2,7 @@
   {
     "name": "giki.app",
     "url": "https://giki.app",
+    "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "giki-app",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 916,
-    "timeWeek": 823,
-    "timeMonth": 822,
-    "timeYear": 822
+    "time": 820,
+    "timeDay": 797,
+    "timeWeek": 822,
+    "timeMonth": 820,
+    "timeYear": 820,
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.giki.app/ping",
     "url": "https://api.giki.app/ping",
+    "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "api-giki-app-ping",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1434,
-    "timeDay": 2263,
-    "timeWeek": 1434,
-    "timeMonth": 1434,
-    "timeYear": 1434
+    "time": 1528,
+    "timeDay": 2180,
+    "timeWeek": 1528,
+    "timeMonth": 1528,
+    "timeYear": 1528,
+    "dailyMinutesDown": {}
   },
   {
     "name": "POST api.giki.app/talks",
     "url": "https://api.giki.app/talks",
+    "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "post-api-giki-app-talks",
     "status": "down",
     "uptime": "0.00%",
@@ -41,15 +46,25 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 836,
-    "timeDay": 1486,
-    "timeWeek": 836,
-    "timeMonth": 836,
-    "timeYear": 836
+    "time": 918,
+    "timeDay": 1495,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2020-12-07": 41,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 842
+    }
   },
   {
     "name": "GET api.giki.app/talks",
     "url": "https://api.giki.app/talks?user_name=i",
+    "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-talks",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +72,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 269,
-    "timeWeek": 330,
-    "timeMonth": 330,
-    "timeYear": 330
+    "time": 322,
+    "timeDay": 266,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET api.giki.app/users",
     "url": "https://api.giki.app/users?name=i",
+    "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-users",
     "status": "up",
     "uptime": "100.00%",
@@ -73,15 +90,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 244,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297
+    "time": 289,
+    "timeDay": 234,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GET api.giki.app/user/login",
     "url": "https://api.giki.app/user/login",
+    "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-user-login",
     "status": "down",
     "uptime": "0.00%",
@@ -89,10 +108,19 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 275,
-    "timeDay": 205,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275
+    "time": 265,
+    "timeDay": 197,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2020-12-07": 41,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 842
+    }
   }
 ]

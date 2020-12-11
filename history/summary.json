@@ -22,9 +22,9 @@
     "url": "https://api.giki.app/ping",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "api-giki-app-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1658,
     "timeMonth": 1547,
     "timeYear": 1547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "POST api.giki.app/talks",
@@ -52,7 +54,7 @@
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2020-12-11": 42,
+      "2020-12-11": 651,
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 1440,
@@ -70,9 +72,9 @@
     "url": "https://api.giki.app/talks?user_name=i",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-talks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,16 +83,18 @@
     "timeWeek": 265,
     "timeMonth": 304,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "GET api.giki.app/users",
     "url": "https://api.giki.app/users?name=i",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-users",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +103,9 @@
     "timeWeek": 233,
     "timeMonth": 270,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "GET api.giki.app/user/login",
@@ -118,7 +124,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2020-12-11": 42,
+      "2020-12-11": 651,
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 1440,

@@ -1,7 +1,7 @@
 url: https://api.giki.app/ping  
-status: up
-code: 200
-responseTime: 2242
-lastUpdated: 2020-12-17T23:22:13.912Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2020-12-18T05:28:03.945Z
 startTime: Tue Dec 01 2020 10:04:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

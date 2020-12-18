@@ -4,9 +4,9 @@
     "url": "https://giki.app",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "giki-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 867,
     "timeMonth": 836,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-18": 0
+    }
   },
   {
     "name": "api.giki.app/ping",
     "url": "https://api.giki.app/ping",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "api-giki-app-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -34,6 +36,7 @@
     "timeMonth": 1775,
     "timeYear": 1775,
     "dailyMinutesDown": {
+      "2020-12-18": 0,
       "2020-12-11": 10
     }
   },
@@ -54,7 +57,7 @@
     "timeMonth": 1177,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2020-12-18": 45,
+      "2020-12-18": 328,
       "2020-12-17": 1440,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
@@ -79,9 +82,9 @@
     "url": "https://api.giki.app/talks?user_name=i",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-talks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -91,6 +94,7 @@
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2020-12-18": 0,
       "2020-12-11": 33
     }
   },
@@ -99,9 +103,9 @@
     "url": "https://api.giki.app/users?name=i",
     "icon": "https://favicons.githubusercontent.com/api.giki.app",
     "slug": "get-api-giki-app-users",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
@@ -111,6 +115,7 @@
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2020-12-18": 0,
       "2020-12-11": 33
     }
   },
@@ -131,7 +136,7 @@
     "timeMonth": 228,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2020-12-18": 45,
+      "2020-12-18": 328,
       "2020-12-17": 1440,
       "2020-12-16": 1440,
       "2020-12-15": 1440,

@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "post-giki-app-api-talks",
     "status": "down",
-    "uptime": "4.09%",
-    "uptimeDay": "4.09%",
-    "uptimeWeek": "4.09%",
-    "uptimeMonth": "4.09%",
-    "uptimeYear": "4.09%",
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
     "time": 430,
     "timeDay": 430,
     "timeWeek": 430,
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2021-01-05": 1
+      "2021-01-05": 38
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "get-giki-app-api-user-login",
     "status": "down",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 113,
     "timeDay": 113,
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2021-01-05": 1
+      "2021-01-05": 38
     }
   }
 ]

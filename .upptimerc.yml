@@ -40,7 +40,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"provider": "weibo", "providerUserId": "123", "scene": "giki_app_web"}'
 
-  - name: POST https://giki.app/api/iap/validate
+  - name: POST giki.app/api/iap/validate
     url: https://giki.app/api/iap/validate
     method: POST
     headers:

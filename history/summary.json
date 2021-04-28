@@ -56,7 +56,7 @@
     "timeMonth": 459,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2021-04-28": 710,
+      "2021-04-28": 714,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,
@@ -125,19 +125,19 @@
     "url": "https://giki.app/api/talks?user_name=i",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "get-giki-app-api-talks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 615,
-    "timeWeek": 728,
-    "timeMonth": 674,
-    "timeYear": 634,
+    "time": 636,
+    "timeDay": 744,
+    "timeWeek": 746,
+    "timeMonth": 680,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2021-04-28": 1
+      "2021-04-28": 5
     }
   },
   {
@@ -193,7 +193,7 @@
     "timeMonth": 1975,
     "timeYear": 2041,
     "dailyMinutesDown": {
-      "2021-04-28": 710,
+      "2021-04-28": 714,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
       "2021-04-25": 1440,

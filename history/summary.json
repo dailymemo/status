@@ -4,10 +4,10 @@
     "url": "https://giki.app",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "giki-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.90%",
     "time": 449,
@@ -16,6 +16,7 @@
     "timeMonth": 329,
     "timeYear": 449,
     "dailyMinutesDown": {
+      "2021-05-04": 3,
       "2021-04-25": 8,
       "2021-03-03": 25,
       "2020-12-18": 205
@@ -26,18 +27,20 @@
     "url": "https://giki.app/api/ping",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "giki-app-api-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1898,
     "timeDay": 1921,
     "timeWeek": 2065,
     "timeMonth": 2086,
     "timeYear": 1898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 3
+    }
   },
   {
     "name": "POST giki.app/api/talks",
@@ -45,18 +48,18 @@
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "post-giki-app-api-talks",
     "status": "down",
-    "uptime": "45.21%",
+    "uptime": "45.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.21%",
+    "uptimeYear": "45.06%",
     "time": 798,
     "timeDay": 190,
     "timeWeek": 421,
     "timeMonth": 438,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2021-05-04": 52,
+      "2021-05-04": 603,
       "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
@@ -131,10 +134,10 @@
     "url": "https://giki.app/api/talks?user_name=i",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "get-giki-app-api-talks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 637,
@@ -143,6 +146,7 @@
     "timeMonth": 645,
     "timeYear": 637,
     "dailyMinutesDown": {
+      "2021-05-04": 2,
       "2021-04-28": 5
     }
   },
@@ -151,10 +155,10 @@
     "url": "https://giki.app/api/users?name=i",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "get-giki-app-api-users",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 495,
@@ -162,17 +166,19 @@
     "timeWeek": 577,
     "timeMonth": 495,
     "timeYear": 495,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 1
+    }
   },
   {
     "name": "POST giki.app/api/user/login",
     "url": "https://giki.app/api/user/login",
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "post-giki-app-api-user-login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1863,
@@ -180,7 +186,9 @@
     "timeWeek": 2243,
     "timeMonth": 2350,
     "timeYear": 1863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 1
+    }
   },
   {
     "name": "POST giki.app/api/iap/validate",
@@ -188,18 +196,18 @@
     "icon": "https://favicons.githubusercontent.com/giki.app",
     "slug": "post-giki-app-api-iap-validate",
     "status": "down",
-    "uptime": "46.29%",
+    "uptime": "46.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.29%",
+    "uptimeYear": "46.13%",
     "time": 2047,
     "timeDay": 1788,
     "timeWeek": 2110,
     "timeMonth": 1984,
     "timeYear": 2047,
     "dailyMinutesDown": {
-      "2021-05-04": 52,
+      "2021-05-04": 603,
       "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,

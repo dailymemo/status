@@ -1,7 +1,7 @@
 url: https://giki.app/api/iap/validate
 status: down
-code: 403
-responseTime: 2479
-lastUpdated: 2021-05-21T23:23:54.565Z
+code: 421
+responseTime: 10
+lastUpdated: 2021-05-22T23:23:15.582Z
 startTime: Wed Jan 13 2021 01:57:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

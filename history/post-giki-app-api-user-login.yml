@@ -1,7 +1,7 @@
 url: https://giki.app/api/user/login
-status: down
-code: 403
-responseTime: 2710
-lastUpdated: 2021-08-26T23:19:33.991Z
+status: up
+code: 200
+responseTime: 3167
+lastUpdated: 2021-08-27T14:09:19.872Z
 startTime: Sun Jan 10 2021 15:27:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -40,14 +40,6 @@ sites:
       - "Content-Type: application/json"
     body: '{"provider": "weibo", "providerUserId": "123", "scene": "giki_app_web"}'
 
-  - name: POST giki.app/api/iap/validate
-    url: https://giki.app/api/iap/validate
-    method: POST
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-    body: '$SUBSCRIPTION_RECEIPT'
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status

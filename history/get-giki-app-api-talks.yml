@@ -1,7 +1,7 @@
 url: https://giki.app/api/talks?user_name=i
-status: down
-code: 500
-responseTime: 310
-lastUpdated: 2022-04-08T23:20:51.107Z
+status: up
+code: 200
+responseTime: 648
+lastUpdated: 2022-04-09T01:46:20.822Z
 startTime: Tue Jan 05 2021 00:20:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

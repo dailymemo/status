@@ -16,7 +16,15 @@ sites:
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"
       - "Content-Type: application/json"
-    body: '{"text": "hello world - status", "tags": ["private"]}'
+    body: '{"text": "hello world - status", "tags": ["private", "devops"]}'
+
+  - name: DELETE giki.app/api/talks
+    url: https://giki.app/api/talks
+    method: DELETE
+    headers:
+      - "Authorization: Bearer $GIKI_BOT_TOKEN"
+      - "Content-Type: application/json"
+    body: '{"text": "hello world - status", "tags": ["private", "devops"]}'
 
   - name: GET giki.app/api/talks
     url: https://giki.app/api/talks?user_name=i

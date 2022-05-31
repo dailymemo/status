@@ -48,6 +48,32 @@ sites:
       - "Content-Type: application/json"
     body: '{"provider": "weibo", "providerUserId": "123", "scene": "giki_app_web"}'
 
+  - name: i.giki.app
+    url: https://i.giki.app
+
+  - name: get users api.minghe.me/graphql
+    url: https://api.minghe.me/graphql
+    method: POST
+    headers:
+      - "Authorization: Bearer $GIKI_BOT_TOKEN"
+      - "Content-Type: application/json"
+    body: '{"query":"query ($qs: QueryUserParam!) {\n    users(qs: $qs) {\n        name\n        id\n        email\n    }\n}","variables":{"qs":{"name":"i"}}}'
+
+  - name: create talks api.minghe.me/graphql
+    url: https://api.minghe.me/graphql
+    method: POST
+    headers:
+      - "Authorization: Bearer $GIKI_BOT_TOKEN"
+      - "Content-Type: application/json"
+    body: '{"query":"mutation ($input:TalkData!) {\n    createTalk(input: $input) {\n        text\n    }\n}","variables":{"input":{"text":"hello world from robot","actions":[],"private":true,"tags":[]}}}'
+
+  - name: query talks api.minghe.me/graphql
+    method: POST
+    headers:
+      - "Authorization: Bearer $GIKI_BOT_TOKEN"
+      - "Content-Type: application/json"
+    body: '{"query":"query QueryTalk($qs: QueryTalkParam!) {\n    talks(qs: $qs) {\n        text\n        tags\n    }\n}","variables":{"qs":{"order":"updated_at.desc","page":0}}}'
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status

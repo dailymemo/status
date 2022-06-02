@@ -660,11 +660,11 @@
     "icon": "https://favicons.githubusercontent.com/i.giki.app",
     "slug": "i-giki-app",
     "status": "up",
-    "uptime": "90.85%",
+    "uptime": "90.89%",
     "uptimeDay": "83.06%",
-    "uptimeWeek": "90.85%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "90.85%",
+    "uptimeWeek": "90.89%",
+    "uptimeMonth": "90.89%",
+    "uptimeYear": "90.89%",
     "time": 826,
     "timeDay": 837,
     "timeWeek": 826,
@@ -672,6 +672,46 @@
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-06-02": 244
+    }
+  },
+  {
+    "name": "giki.app/discover",
+    "url": "https://giki.app/discover",
+    "icon": "https://favicons.githubusercontent.com/giki.app",
+    "slug": "giki-app-discover",
+    "status": "up",
+    "uptime": "3.55%",
+    "uptimeDay": "3.55%",
+    "uptimeWeek": "3.55%",
+    "uptimeMonth": "3.55%",
+    "uptimeYear": "3.55%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-02": 1
+    }
+  },
+  {
+    "name": "i.giki.app/discover",
+    "url": "https://i.giki.app/discover",
+    "icon": "https://favicons.githubusercontent.com/i.giki.app",
+    "slug": "i-giki-app-discover",
+    "status": "up",
+    "uptime": "1.09%",
+    "uptimeDay": "1.09%",
+    "uptimeWeek": "1.09%",
+    "uptimeMonth": "1.09%",
+    "uptimeYear": "1.09%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-02": 1
     }
   },
   {

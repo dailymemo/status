@@ -51,6 +51,12 @@ sites:
   - name: i.giki.app
     url: https://i.giki.app
 
+  - name: giki.app/discover
+    url: https://giki.app/discover
+
+  - name: i.giki.app/discover
+    url: https://i.giki.app/discover
+
   - name: get users api.minghe.me/graphql
     url: https://api.minghe.me/graphql
     method: POST

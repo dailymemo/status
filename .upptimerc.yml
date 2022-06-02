@@ -65,7 +65,7 @@ sites:
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"
       - "Content-Type: application/json"
-    body: '{"query":"mutation ($input:TalkData!) {\n    createTalk(input: $input) {\n        text\n    }\n}","variables":{"input":{"text":"hello world from robot","actions":[],"private":true,"tags":[]}}}'
+    body: '{"query":"mutation ($input:TalkData!) {\n    createTalk(input: $input) {\n        text\n    }\n}","variables":{"input":{"text":"hello world from robot","actions":[],"private":true,"tags":["private"]}}}'
 
   - name: query talks api.minghe.me/graphql
     url: https://api.minghe.me/graphql

@@ -1,7 +1,7 @@
 url: https://i.giki.app/discover
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2022-10-08T23:29:17.049Z
+status: down
+code: 502
+responseTime: 1365
+lastUpdated: 2022-10-09T14:38:59.717Z
 startTime: Thu Jun 02 2022 12:46:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

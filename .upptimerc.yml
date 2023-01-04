@@ -91,7 +91,7 @@ sites:
   - name: blog.minghe.me
     url: https://minghe.me
   - name: graphql.minghe.me
-    url: https://graphql.minghe.me
+    url: https://graphql.minghe.me/graphql
     method: POST
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"

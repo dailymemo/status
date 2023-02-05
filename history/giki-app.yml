@@ -1,7 +1,7 @@
 url: https://giki.app
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2023-02-05T03:38:42.880Z
+status: down
+code: 500
+responseTime: 2341
+lastUpdated: 2023-02-05T04:50:35.959Z
 startTime: Sun Nov 22 2020 15:31:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

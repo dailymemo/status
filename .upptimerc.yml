@@ -10,44 +10,6 @@ sites:
   - name: giki.app/api/ping
     url: https://giki.app/api/ping
 
-  - name: POST giki.app/api/talks
-    url: https://giki.app/api/talks
-    method: POST
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-    body: '{"text": "hello world - status", "tags": ["private", "devops"]}'
-
-  - name: DELETE giki.app/api/talks
-    url: https://giki.app/api/talks
-    method: DELETE
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-    body: '{"tag": "devops"}'
-
-  - name: GET giki.app/api/talks
-    url: https://giki.app/api/talks?user_name=i
-    method: GET
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-
-  - name: GET giki.app/api/users
-    url: https://giki.app/api/users?name=i
-    method: GET
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-
-  - name: POST giki.app/api/user/login
-    url: https://giki.app/api/user/login
-    method: POST
-    headers:
-      - "Authorization: Bearer $GIKI_BOT_TOKEN"
-      - "Content-Type: application/json"
-    body: '{"provider": "weibo", "providerUserId": "123", "scene": "giki_app_web"}'
-
   - name: i.giki.app
     url: https://i.giki.app
 
@@ -89,7 +51,9 @@ sites:
       - "Content-Type: application/json"
     body: '{"query":"query QueryTalk($qs: QueryTalkParam!) {\n    talks(qs: $qs) {\n        text\n        tags\n    }\n}","variables":{"qs":{"order":"updated_at.desc","page":0}}}'
   - name: blog.minghe.me
-    url: https://minghe.me
+    url: https://blog.minghe.me
+  - name: nextcloud.minghe.me
+    url: https://nextcloud.minghe.me
   - name: graphql.minghe.me
     url: https://graphql.minghe.me/graphql
     method: POST

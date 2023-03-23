@@ -1,7 +1,7 @@
 url: https://api.minghe.me/graphql
-status: up
-code: 200
-responseTime: 954
-lastUpdated: 2023-03-22T23:12:42.268Z
+status: down
+code: 500
+responseTime: 23
+lastUpdated: 2023-03-23T12:40:37.669Z
 startTime: Tue May 31 2022 16:08:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

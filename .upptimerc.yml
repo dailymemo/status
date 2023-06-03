@@ -62,6 +62,19 @@ sites:
       - "Content-Type: application/json"
     body: '{"query":"query ExampleQuery {\n  books {\n    title\n  }\n}\n","variables":{},"operationName":"TestQuery"}'
 
+  - name: OpenAI API Proxy
+    url: https://api.minghe.me/openai/api/v1/completions
+    method: POST
+    headers:
+      - "Authorization: Bearer $OPEN_AI_KEY"
+      - "Content-Type: application/json"
+    body: '{
+      "model": "text-davinci-003",
+      "prompt": "Say this is a test",
+      "max_tokens": 7,
+      "temperature": 0
+    }'
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: status

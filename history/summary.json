@@ -917,7 +917,7 @@
     "timeMonth": 80,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-06-03": 444,
+      "2023-06-03": 445,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
@@ -1077,18 +1077,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.minghe.me.ico",
     "slug": "open-ai-api-proxy",
     "status": "up",
-    "uptime": "21.83%",
-    "uptimeDay": "21.83%",
-    "uptimeWeek": "21.83%",
-    "uptimeMonth": "21.83%",
-    "uptimeYear": "21.83%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 824,
     "timeDay": 824,
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
-    "dailyMinutesDown": {
-      "2023-06-03": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]

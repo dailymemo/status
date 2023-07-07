@@ -572,14 +572,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.09%",
+    "uptimeYear": "63.08%",
     "time": 651,
     "timeDay": 358,
     "timeWeek": 244,
     "timeMonth": 540,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-07-07": 145,
+      "2023-07-07": 190,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -928,7 +928,7 @@
     "timeMonth": 82,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-07-07": 145,
+      "2023-07-07": 191,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -1121,19 +1121,19 @@
     "url": "https://api.minghe.me/openai/api/v1/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.minghe.me.ico",
     "slug": "open-ai-api-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 505,
-    "timeWeek": 1476,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.91%",
+    "time": 1010,
+    "timeDay": 683,
+    "timeWeek": 1427,
     "timeMonth": 1029,
-    "timeYear": 1009,
+    "timeYear": 1010,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 46
     }
   }
 ]

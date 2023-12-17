@@ -1,7 +1,7 @@
 url: https://api.minghe.me/openai/api/v1/completions
 status: up
 code: 200
-responseTime: 295
-lastUpdated: 2023-12-16T23:14:13.015Z
+responseTime: 265
+lastUpdated: 2023-12-17T23:14:37.546Z
 startTime: 2023-06-03T07:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>

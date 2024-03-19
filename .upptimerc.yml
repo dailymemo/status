@@ -19,32 +19,32 @@ sites:
   - name: i.giki.app/discover
     url: https://i.giki.app/discover
 
-  - name: get users api.minghe.me/graphql
-    url: https://api.minghe.me/graphql
+  - name: get users graph.minghe.me
+    url: https://graph.minghe.me
     method: POST
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"
       - "Content-Type: application/json"
     body: '{"query":"query ($qs: QueryUserParam!) {\n    users(qs: $qs) {\n        name\n        id\n        email\n    }\n}","variables":{"qs":{"name":"i"}}}'
 
-  - name: create talks api.minghe.me/graphql
-    url: https://api.minghe.me/graphql
+  - name: create talks graph.minghe.me
+    url: https://graph.minghe.me
     method: POST
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"
       - "Content-Type: application/json"
     body: '{"query":"mutation ($input:TalkData!) {\n    createTalk(input: $input) {\n        text\n    }\n}","variables":{"input":{"text":"hello world from robot","actions":"","private":true,"tags":"private"}}}'
 
-  - name: delete talks api.minghe.me/graphql
-    url: https://api.minghe.me/graphql
+  - name: delete talks graph.minghe.me
+    url: https://graph.minghe.me
     method: POST
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"
       - "Content-Type: application/json"
     body: '{"query":"mutation ($input: DeletionParam!){\n    deleteTalks(input:$input) {\n        success\n        message\n    }  \n}","variables":{"input":{"text":"hello world from robot"}}}'
 
-  - name: query talks api.minghe.me/graphql
-    url: https://api.minghe.me/graphql
+  - name: query talks graph.minghe.me
+    url: https://graph.minghe.me
     method: POST
     headers:
       - "Authorization: Bearer $GIKI_BOT_TOKEN"

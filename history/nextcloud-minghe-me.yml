@@ -1,7 +1,7 @@
 url: https://nextcloud.minghe.me
-status: up
-code: 200
-responseTime: 1071
-lastUpdated: 2024-07-14T23:16:18.559Z
+status: down
+code: 530
+responseTime: 74
+lastUpdated: 2024-07-15T02:13:21.635Z
 startTime: 2023-02-12T13:50:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>

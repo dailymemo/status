@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/giki.app.ico",
     "slug": "giki-app",
     "status": "up",
-    "uptime": "88.51%",
+    "uptime": "88.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.16%",
+    "uptimeYear": "93.44%",
     "time": 963,
-    "timeDay": 364,
-    "timeWeek": 418,
-    "timeMonth": 356,
-    "timeYear": 644,
+    "timeDay": 404,
+    "timeWeek": 428,
+    "timeMonth": 360,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2023-12-23": 453,
       "2023-12-22": 821,
@@ -42,8 +42,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -57,11 +56,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3441,
-    "timeDay": 4818,
-    "timeWeek": 3439,
-    "timeMonth": 3763,
-    "timeYear": 3431,
+    "time": 3440,
+    "timeDay": 4448,
+    "timeWeek": 4043,
+    "timeMonth": 3759,
+    "timeYear": 3433,
     "dailyMinutesDown": {}
   },
   {
@@ -70,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.giki.app.ico",
     "slug": "i-giki-app",
     "status": "up",
-    "uptime": "82.30%",
+    "uptime": "82.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.21%",
-    "time": 648,
-    "timeDay": 163,
-    "timeWeek": 228,
-    "timeMonth": 209,
-    "timeYear": 369,
+    "uptimeYear": "93.49%",
+    "time": 647,
+    "timeDay": 149,
+    "timeWeek": 206,
+    "timeMonth": 208,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2024-08-01": 15,
       "2023-12-23": 195,
@@ -108,8 +107,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -118,16 +116,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/giki.app.ico",
     "slug": "giki-app-discover",
     "status": "up",
-    "uptime": "82.04%",
+    "uptime": "82.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.66%",
+    "uptimeYear": "92.94%",
     "time": 560,
-    "timeDay": 137,
+    "timeDay": 91,
     "timeWeek": 120,
     "timeMonth": 121,
-    "timeYear": 298,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2024-01-11": 191,
       "2024-01-10": 1440,
@@ -158,8 +156,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -168,16 +165,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.giki.app.ico",
     "slug": "i-giki-app-discover",
     "status": "up",
-    "uptime": "82.06%",
+    "uptime": "82.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.71%",
-    "time": 546,
-    "timeDay": 92,
-    "timeWeek": 99,
-    "timeMonth": 100,
-    "timeYear": 282,
+    "uptimeYear": "92.99%",
+    "time": 545,
+    "timeDay": 141,
+    "timeWeek": 112,
+    "timeMonth": 102,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2024-01-11": 191,
       "2024-01-10": 1440,
@@ -208,8 +205,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -223,11 +219,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 249,
-    "timeWeek": 341,
-    "timeMonth": 309,
-    "timeYear": 399,
+    "time": 400,
+    "timeDay": 486,
+    "timeWeek": 355,
+    "timeMonth": 310,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   },
   {
@@ -241,11 +237,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 24,
-    "timeWeek": 27,
-    "timeMonth": 31,
-    "timeYear": 186,
+    "time": 185,
+    "timeDay": 28,
+    "timeWeek": 28,
+    "timeMonth": 32,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   },
   {
@@ -259,11 +255,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 25,
-    "timeWeek": 27,
-    "timeMonth": 36,
-    "timeYear": 165,
+    "time": 164,
+    "timeDay": 32,
+    "timeWeek": 28,
+    "timeMonth": 34,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -278,7 +274,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 17,
-    "timeDay": 15,
+    "timeDay": 17,
     "timeWeek": 18,
     "timeMonth": 16,
     "timeYear": 17,
@@ -296,9 +292,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 251,
-    "timeWeek": 244,
-    "timeMonth": 198,
+    "timeDay": 244,
+    "timeWeek": 238,
+    "timeMonth": 201,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -308,18 +304,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.minghe.me.ico",
     "slug": "nextcloud-minghe-me",
     "status": "down",
-    "uptime": "78.64%",
+    "uptime": "78.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.24%",
-    "time": 1232,
-    "timeDay": 66,
-    "timeWeek": 163,
-    "timeMonth": 145,
-    "timeYear": 1101,
+    "time": 1229,
+    "timeDay": 261,
+    "timeWeek": 188,
+    "timeMonth": 150,
+    "timeYear": 1102,
     "dailyMinutesDown": {
-      "2024-09-17": 53,
+      "2024-09-18": 63,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -407,8 +404,7 @@
       "2023-09-23": 908,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
